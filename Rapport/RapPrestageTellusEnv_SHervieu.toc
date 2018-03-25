@@ -10,108 +10,131 @@
 \contentsline {paragraph}{Mesure temps r\IeC {\'e}el de tassage de Silo}{6}
 \contentsline {paragraph}{D\IeC {\'e}tection en milieu marin zone \IeC {\`a} risque}{6}
 \contentsline {paragraph}{D\IeC {\'e}tection Automatique GeoRadar}{6}
-\contentsline {section}{\numberline {1.2}Pr\IeC {\'e}sentation du Stage}{6}
+\contentsline {section}{\numberline {1.2}Pr\IeC {\'e}sentation du Stage}{7}
 \contentsline {paragraph}{Le tassage de silo de mais}{7}
 \contentsline {paragraph}{Tellus Environnement apporte}{7}
 \contentsline {paragraph}{Le dispositif existant}{7}
-\contentsline {paragraph}{La solution \IeC {\`a} ce probl\IeC {\`e}me}{8}
-\contentsline {section}{\numberline {1.3}Objectifs du projet de pr\IeC {\'e}-stage}{8}
-\contentsline {chapter}{\numberline {2}Notions d'Agriculture}{9}
-\contentsline {paragraph}{}{9}
-\contentsline {section}{\numberline {2.1}Les fourrages: importance \IeC {\'e}conomique}{9}
-\contentsline {paragraph}{La nourriture: poste financier le plus important pour une exploitation agricole}{9}
-\contentsline {paragraph}{Les fourrages: un moyen bon march\IeC {\'e} pour nourrir les herbivores}{9}
-\contentsline {paragraph}{Diff\IeC {\'e}rents type de fourrages, selon les saisons}{9}
-\contentsline {section}{\numberline {2.2}Principes de l'ensilage}{9}
-\contentsline {subsection}{\numberline {2.2.1}Fermentation Lactique Ana\IeC {\'e}robie}{9}
-\contentsline {paragraph}{R\IeC {\'e}action chimique}{9}
-\contentsline {paragraph}{Vertues st\IeC {\'e}rilisatrices, de conservation et nutritionnelles}{9}
-\contentsline {subsection}{\numberline {2.2.2}Les diff\IeC {\'e}rentes m\IeC {\'e}thodes de conservation des fourrages}{10}
-\contentsline {paragraph}{Haylage}{10}
-\contentsline {paragraph}{Enrubannage}{10}
-\contentsline {paragraph}{Ensilage par tassement}{10}
-\contentsline {section}{\numberline {2.3}Ensilage par tassement: mise en oeuvre}{10}
-\contentsline {subsection}{\numberline {2.3.1}Le chantier d'ensilage}{10}
-\contentsline {paragraph}{Vue d'ensemble}{10}
-\contentsline {paragraph}{Les diff\IeC {\'e}rents postes}{10}
-\contentsline {subparagraph}{Fourrageuse}{10}
-\contentsline {subparagraph}{Navette}{10}
-\contentsline {subparagraph}{Tracteur \IeC {\'e}taleur}{10}
-\contentsline {subparagraph}{Tracteur tasseur}{10}
-\contentsline {subsection}{\numberline {2.3.2}M\IeC {\'e}thodologie du tassage}{10}
-\contentsline {paragraph}{Etalement initial de 50cm}{10}
-\contentsline {paragraph}{Ensuite couche de 20 cm}{10}
-\contentsline {paragraph}{les param\IeC {\`e}tres cibles}{10}
-\contentsline {subsection}{\numberline {2.3.3}risques d'un tassage mal effectu\IeC {\'e}s}{11}
-\contentsline {section}{\numberline {2.4}Pr\IeC {\'e}paration et la conduite du chantier}{11}
-\contentsline {subsection}{\numberline {2.4.1}Les diff\IeC {\'e}rents types d'intervenant}{11}
-\contentsline {subsection}{\numberline {2.4.2}Gestion de production}{11}
-\contentsline {paragraph}{cible de production}{11}
-\contentsline {paragraph}{\IeC {\'e}viter la surproduction}{11}
-\contentsline {paragraph}{permettre la mise en valeur du ma\IeC {\"\i }s sur pied restant}{11}
-\contentsline {section}{\numberline {2.5}Conclusion}{11}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{La solution \IeC {\`a} ces demandes}{8}
+\contentsline {section}{\numberline {1.3}Objectifs du projet de pr\IeC {\'e}-stage}{9}
+\contentsline {chapter}{\numberline {2}L'ensilage de ma\IeC {\"\i }s en silo}{11}
 \contentsline {paragraph}{}{11}
-\contentsline {chapter}{\numberline {3}Notions de D\IeC {\'e}tection, D\IeC {\'e}tecteurs}{12}
+\contentsline {section}{\numberline {2.1}Les fourrages: importance \IeC {\'e}conomique}{11}
+\contentsline {paragraph}{La nourriture: poste de charges le plus important pour une exploitation agricole}{11}
+\contentsline {paragraph}{Les fourrages: un moyen bon march\IeC {\'e} pour nourrir les herbivores.}{11}
+\contentsline {paragraph}{}{11}
 \contentsline {paragraph}{}{12}
-\contentsline {section}{\numberline {3.1}Notions sur les capteurs}{12}
-\contentsline {subsection}{\numberline {3.1.1}Informations fournies par un capteur de pr\IeC {\'e}sence}{12}
-\contentsline {paragraph}{Port\IeC {\'e}e}{12}
-\contentsline {paragraph}{Ouverture}{12}
-\contentsline {paragraph}{Distance, gisement, azimuth}{12}
-\contentsline {section}{\numberline {3.2}Les capteurs de position}{12}
-\contentsline {subsection}{\numberline {3.2.1}Odom\IeC {\'e}trie}{12}
-\contentsline {subsection}{\numberline {3.2.2}Centrales inertielles}{13}
-\contentsline {subsection}{\numberline {3.2.3}GPS}{13}
-\contentsline {section}{\numberline {3.3}Les d\IeC {\'e}tecteurs de type "Direction et Port\IeC {\'e}e"}{13}
-\contentsline {subsection}{\numberline {3.3.1}Principes}{13}
-\contentsline {paragraph}{Mesures}{13}
-\contentsline {paragraph}{Modes d'exploitation}{13}
-\contentsline {subsection}{\numberline {3.3.2}Les diff\IeC {\'e}rents types de capteur "Direction et Port\IeC {\'e}e"}{13}
-\contentsline {section}{\numberline {3.4}Les capteurs de type "Direction"}{13}
-\contentsline {subsection}{\numberline {3.4.1}D\IeC {\'e}tecteur de pr\IeC {\'e}sence}{13}
-\contentsline {subsection}{\numberline {3.4.2}Vision par Ordinateur}{13}
-\contentsline {section}{\numberline {3.5}Les d\IeC {\'e}tecteurs de type "Port\IeC {\'e}e seulement"}{13}
-\contentsline {chapter}{\numberline {4}Solution Actuelle \IeC {\`a} Am\IeC {\'e}liorer}{14}
-\contentsline {section}{\numberline {4.1}Objectifs initiaux de la version V1}{14}
-\contentsline {section}{\numberline {4.2}Pr\IeC {\'e}sentation de solution}{14}
-\contentsline {subsection}{\numberline {4.2.1}Architecture de la solution}{14}
-\contentsline {subsection}{\numberline {4.2.2}Les sous-syst\IeC {\`e}mes}{14}
-\contentsline {section}{\numberline {4.3}Points faibles et axes d'am\IeC {\'e}lioration}{14}
-\contentsline {subsection}{\numberline {4.3.1}Points faibles}{14}
-\contentsline {paragraph}{Complexit\IeC {\'e} de mise en oeuvre}{14}
-\contentsline {subparagraph}{Installation du Lidar en d\IeC {\'e}but de chantier}{14}
-\contentsline {subparagraph}{Initialisation de la communication sans fil entre le Lidar et le terminal}{14}
-\contentsline {paragraph}{Informations limit\IeC {\'e}es}{14}
-\contentsline {subsection}{\numberline {4.3.2}Axes d'am\IeC {\'e}liorations pour la V2}{14}
-\contentsline {paragraph}{Supprimer les facteurs limitants de mise en oeuvre}{14}
-\contentsline {paragraph}{Obtenir des informations suppl\IeC {\'e}mentaires sur l'\IeC {\'e}tat de tassage}{14}
-\contentsline {section}{\numberline {4.4}Conclusions}{15}
-\contentsline {part}{II\hspace {1em}Outils Importants }{16}
-\contentsline {chapter}{\numberline {5}D\IeC {\'e}tecteurs en Robotique}{17}
-\contentsline {chapter}{\numberline {6}Plateforme ROS}{18}
-\contentsline {chapter}{\numberline {7}Localisation, Cartographie, SLAM}{19}
-\contentsline {section}{\numberline {7.1}Positionnement du probl\IeC {\`e}me}{19}
-\contentsline {paragraph}{Localisation requiert une carte}{19}
-\contentsline {paragraph}{Cartographier requiert de conna\IeC {\^\i }tre sa position}{19}
-\contentsline {paragraph}{SLAM permet de r\IeC {\'e}soudre cette probl\IeC {\'e}matique "Oeuf et poule"}{19}
-\contentsline {paragraph}{Localisation, vecteur d'\IeC {\'e}tat: }{19}
-\contentsline {section}{\numberline {7.2}Maintenir de le vecteur d'\IeC {\'e}tat}{19}
-\contentsline {paragraph}{Mise en place de la boucle de rafraichissment, filtres de Kalman}{19}
-\contentsline {paragraph}{Selectionner des points de rep\IeC {\`e}re, les maintenir}{19}
-\contentsline {section}{\numberline {7.3}Reconstituer l'environnement}{19}
-\contentsline {chapter}{\numberline {8}Mesurer le tassage}{20}
-\contentsline {section}{\numberline {8.1}Mod\IeC {\'e}liser une surface en 3D}{20}
-\contentsline {section}{\numberline {8.2}Calculer le volume \IeC {\`a} partir d'une surface 3D mesur\IeC {\'e}e}{20}
-\contentsline {chapter}{\numberline {9}Prototypage}{21}
-\contentsline {section}{\numberline {9.1}Prototypage Scientifique des Algorithmes}{21}
-\contentsline {subsection}{\numberline {9.1.1}Matlab}{21}
-\contentsline {subsection}{\numberline {9.1.2}Python}{21}
-\contentsline {section}{\numberline {9.2}Prototype de mise en \IeC {\oe }uvre}{21}
-\contentsline {subsection}{\numberline {9.2.1}Plateforme ROS}{21}
-\contentsline {subsection}{\numberline {9.2.2}Mise en oeuvre en C et/ou C++}{21}
-\contentsline {part}{III\hspace {1em}Application Num\IeC {\'e}rique}{22}
-\contentsline {chapter}{\numberline {10}Application Num\IeC {\'e}rique}{23}
-\contentsline {part}{IV\hspace {1em}Conclusions du Projet Pr\IeC {\'e}liminaire au Stage}{24}
-\contentsline {chapter}{\numberline {11}Objectifs SMART du Stage}{25}
-\contentsline {chapter}{\numberline {12}Conclusion}{26}
-\contentsline {chapter}{\numberline {A}Sujet de stage}{27}
+\contentsline {section}{\numberline {2.2}Principes de l'ensilage}{12}
+\contentsline {subsection}{\numberline {2.2.1}Fermentation Lactique}{12}
+\contentsline {paragraph}{R\IeC {\'e}action chimique:}{12}
+\contentsline {paragraph}{St\IeC {\'e}rilisation et conservation:}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {subsection}{\numberline {2.2.2}Conservation des fourrages annuels}{13}
+\contentsline {paragraph}{Le "Haylage":}{13}
+\contentsline {paragraph}{L'Enrubannage:}{13}
+\contentsline {paragraph}{Ensilage en silo couloir}{13}
+\contentsline {paragraph}{}{14}
+\contentsline {section}{\numberline {2.3}Ensilage en silo couloir: mise en oeuvre}{14}
+\contentsline {subsection}{\numberline {2.3.1}Le chantier d'ensilage de }{14}
+\contentsline {paragraph}{Vue d'ensemble :}{14}
+\contentsline {paragraph}{Les diff\IeC {\'e}rents postes}{14}
+\contentsline {subparagraph}{Fourrageuse:}{14}
+\contentsline {subparagraph}{Navette:}{14}
+\contentsline {subparagraph}{Tracteur \IeC {\'e}taleur:}{14}
+\contentsline {subparagraph}{Tracteur tasseur:}{14}
+\contentsline {subsection}{\numberline {2.3.2}M\IeC {\'e}thodologie du remplissage et de tassage du silo}{15}
+\contentsline {paragraph}{Pr\IeC {\'e}paration du silo}{15}
+\contentsline {paragraph}{Etalement initial:}{15}
+\contentsline {paragraph}{Etalements successifs}{15}
+\contentsline {paragraph}{Isolation herm\IeC {\'e}tique:}{15}
+\contentsline {paragraph}{Les param\IeC {\`e}tres cibles: }{15}
+\contentsline {subsection}{\numberline {2.3.3}risques d'un tassage mal effectu\IeC {\'e}}{15}
+\contentsline {paragraph}{Cons\IeC {\'e}quences}{16}
+\contentsline {paragraph}{Mesurer le tassage:}{16}
+\contentsline {section}{\numberline {2.4}Pr\IeC {\'e}paration et la conduite du chantier}{16}
+\contentsline {subsection}{\numberline {2.4.1}Les diff\IeC {\'e}rents types d'intervenant}{16}
+\contentsline {subsection}{\numberline {2.4.2}Gestion de production}{16}
+\contentsline {paragraph}{cible de production}{16}
+\contentsline {paragraph}{\IeC {\'e}viter la surproduction}{16}
+\contentsline {paragraph}{permettre la mise en valeur du ma\IeC {\"\i }s sur pied restant}{16}
+\contentsline {section}{\numberline {2.5}Conclusion}{17}
+\contentsline {chapter}{\numberline {3}Solution Actuelle \IeC {\`a} Am\IeC {\'e}liorer}{18}
+\contentsline {section}{\numberline {3.1}Objectifs initiaux de la version V1}{18}
+\contentsline {section}{\numberline {3.2}Pr\IeC {\'e}sentation de solution}{18}
+\contentsline {subsection}{\numberline {3.2.1}Architecture de la solution}{18}
+\contentsline {subsection}{\numberline {3.2.2}Les sous-syst\IeC {\`e}mes}{19}
+\contentsline {section}{\numberline {3.3}Points faibles et axes d'am\IeC {\'e}lioration}{19}
+\contentsline {subsection}{\numberline {3.3.1}Complexit\IeC {\'e} de mise en oeuvre}{20}
+\contentsline {paragraph}{Installation d\IeC {\'e}licate du Lidar:}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{Connectivit\IeC {\'e} WIFI peu adapt\IeC {\'e}e \IeC {\`a} l'environnement du chantier: }{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{21}
+\contentsline {subsection}{\numberline {3.3.2}Limitation du syst\IeC {\`e}me}{21}
+\contentsline {paragraph}{Informations limit\IeC {\'e}es:}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{Pas de calibrage:}{21}
+\contentsline {paragraph}{Lidar plac\IeC {\'e} tr\IeC {\`e}s pr\IeC {\'e}s du silo:}{21}
+\contentsline {subsection}{\numberline {3.3.3}Axes d'am\IeC {\'e}liorations pour la V2}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{Supprimer les facteurs limitants de mise en oeuvre:}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {paragraph}{Obtenir des informations suppl\IeC {\'e}mentaires sur l'\IeC {\'e}tat de tassage:}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {section}{\numberline {3.4}Conclusions}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {part}{II\hspace {1em}Outils Importants }{24}
+\contentsline {chapter}{\numberline {4}D\IeC {\'e}tecteurs en Robotique}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {section}{\numberline {4.1}Notions sur les capteurs}{25}
+\contentsline {subsection}{\numberline {4.1.1}Informations fournies par un capteur de pr\IeC {\'e}sence}{25}
+\contentsline {paragraph}{Port\IeC {\'e}e}{25}
+\contentsline {paragraph}{Ouverture}{25}
+\contentsline {paragraph}{Distance, gisement, azimuth}{25}
+\contentsline {section}{\numberline {4.2}Les capteurs de position}{25}
+\contentsline {subsection}{\numberline {4.2.1}Odom\IeC {\'e}trie}{25}
+\contentsline {subsection}{\numberline {4.2.2}Centrales inertielles}{26}
+\contentsline {subsection}{\numberline {4.2.3}GPS}{26}
+\contentsline {section}{\numberline {4.3}Les d\IeC {\'e}tecteurs de type "Direction et Port\IeC {\'e}e"}{26}
+\contentsline {subsection}{\numberline {4.3.1}Principes}{26}
+\contentsline {paragraph}{Mesures}{26}
+\contentsline {paragraph}{Modes d'exploitation}{26}
+\contentsline {subsection}{\numberline {4.3.2}Les diff\IeC {\'e}rents types de capteur "Direction et Port\IeC {\'e}e"}{26}
+\contentsline {section}{\numberline {4.4}Les capteurs de type "Direction"}{26}
+\contentsline {subsection}{\numberline {4.4.1}D\IeC {\'e}tecteur de pr\IeC {\'e}sence}{26}
+\contentsline {subsection}{\numberline {4.4.2}Vision par Ordinateur}{26}
+\contentsline {section}{\numberline {4.5}Les d\IeC {\'e}tecteurs de type "Port\IeC {\'e}e seulement"}{26}
+\contentsline {chapter}{\numberline {5}Localisation, Cartographie, SLAM}{27}
+\contentsline {section}{\numberline {5.1}Positionnement du probl\IeC {\`e}me}{27}
+\contentsline {paragraph}{Localisation requiert une carte}{27}
+\contentsline {paragraph}{Cartographier requiert de conna\IeC {\^\i }tre sa position}{27}
+\contentsline {paragraph}{SLAM permet de r\IeC {\'e}soudre cette probl\IeC {\'e}matique "Oeuf et poule"}{27}
+\contentsline {paragraph}{Localisation, vecteur d'\IeC {\'e}tat: }{27}
+\contentsline {section}{\numberline {5.2}Maintenir de le vecteur d'\IeC {\'e}tat}{27}
+\contentsline {paragraph}{Mise en place de la boucle de rafraichissment, filtres de Kalman}{27}
+\contentsline {paragraph}{Selectionner des points de rep\IeC {\`e}re, les maintenir}{27}
+\contentsline {section}{\numberline {5.3}Reconstituer l'environnement}{27}
+\contentsline {chapter}{\numberline {6}Mesurer le tassage}{28}
+\contentsline {section}{\numberline {6.1}Mod\IeC {\'e}liser une surface en 3D}{28}
+\contentsline {section}{\numberline {6.2}Calculer le volume \IeC {\`a} partir d'une surface 3D mesur\IeC {\'e}e}{28}
+\contentsline {chapter}{\numberline {7}Prototypage}{29}
+\contentsline {section}{\numberline {7.1}Prototypage Scientifique des Algorithmes}{29}
+\contentsline {subsection}{\numberline {7.1.1}Matlab}{29}
+\contentsline {subsection}{\numberline {7.1.2}Python}{29}
+\contentsline {section}{\numberline {7.2}Prototype de mise en \IeC {\oe }uvre}{29}
+\contentsline {subsection}{\numberline {7.2.1}Plateforme ROS}{29}
+\contentsline {subsection}{\numberline {7.2.2}Mise en oeuvre en C et/ou C++}{29}
+\contentsline {part}{III\hspace {1em}Application Num\IeC {\'e}rique}{30}
+\contentsline {chapter}{\numberline {8}Application Num\IeC {\'e}rique}{31}
+\contentsline {part}{IV\hspace {1em}Conclusions du Projet Pr\IeC {\'e}liminaire au Stage}{32}
+\contentsline {chapter}{\numberline {9}Objectifs SMART du Stage}{33}
+\contentsline {chapter}{\numberline {10}Conclusion}{34}
+\contentsline {chapter}{\numberline {A}Sujet de stage}{35}
+\contentsline {chapter}{Bibliographie}{38}
