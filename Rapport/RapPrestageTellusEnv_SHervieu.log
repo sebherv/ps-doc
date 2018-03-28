@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.15)  25 MAR 2018 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.15)  28 MAR 2018 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,39 +772,52 @@ Package pdftex.def Info: img/ArchiGenV1.png used on input line 324.
 Chapitre 4.
 [25
 
-] [26]
+] [26] <img/detecteurpassif.png, id=112, 425.6703pt x 125.9907pt>
+File: img/detecteurpassif.png Graphic file (type png)
+
+<use img/detecteurpassif.png>
+Package pdftex.def Info: img/detecteurpassif.png used on input line 474.
+(pdftex.def)             Requested size: 312.00119pt x 92.34924pt.
+
+<img/detecteuractif.png, id=113, 421.0932pt x 212.9556pt>
+File: img/detecteuractif.png Graphic file (type png)
+
+<use img/detecteuractif.png>
+Package pdftex.def Info: img/detecteuractif.png used on input line 491.
+(pdftex.def)             Requested size: 312.00119pt x 157.79587pt.
+ [27 <./img/detecteurpassif.png>] [28 <./img/detecteuractif.png>] [29] [30]
 Chapitre 5.
-[27
+[31
 
 ]
 Chapitre 6.
-[28
+[32
 
 ]
 Chapitre 7.
-[29
+[33
 
-] [30
+] [34
 
 ]
 Chapitre 8.
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 527--530
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 613--616
 \T1/cmr/m/n/12 l'ob-jec-tif est d'ob-te-nir des ou-tils qui pro-duisent des ré-
 sul-tats en quelques
  []
 
-[31
+[35
 
-] [32
+] [36
 
 ]
 Chapitre 9.
-[33
+[37
 
 ]
 Chapitre 10.
-[34
+[38
 
 ]
 Annexe A.
@@ -812,10 +825,10 @@ Annexe A.
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sujetstage.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<sujetstage.pdf, id=137, 597.55246pt x 845.07718pt>
+<sujetstage.pdf, id=154, 597.55246pt x 845.07718pt>
 File: sujetstage.pdf Graphic file (type pdf)
  <use sujetstage.pdf>
-Package pdftex.def Info: sujetstage.pdf used on input line 540.
+Package pdftex.def Info: sujetstage.pdf used on input line 626.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -823,7 +836,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sujetstage.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
 File: sujetstage.pdf Graphic file (type pdf)
 <use sujetstage.pdf>
-Package pdftex.def Info: sujetstage.pdf used on input line 540.
+Package pdftex.def Info: sujetstage.pdf used on input line 626.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -831,7 +844,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sujetstage.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
 File: sujetstage.pdf Graphic file (type pdf)
 <use sujetstage.pdf>
-Package pdftex.def Info: sujetstage.pdf used on input line 540.
+Package pdftex.def Info: sujetstage.pdf used on input line 626.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -841,61 +854,61 @@ sion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sujetstage.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<sujetstage.pdf, id=141, page=1, 597.55246pt x 845.07718pt>
+<sujetstage.pdf, id=158, page=1, 597.55246pt x 845.07718pt>
 File: sujetstage.pdf Graphic file (type pdf)
 
 <use sujetstage.pdf, page 1>
-Package pdftex.def Info: sujetstage.pdf, page1 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page1 used on input line 626.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: sujetstage.pdf Graphic file (type pdf)
  <use sujetstage.pdf, page 1>
-Package pdftex.def Info: sujetstage.pdf, page1 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page1 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [35
+ [39
 
 ]
 File: sujetstage.pdf Graphic file (type pdf)
 
 <use sujetstage.pdf, page 1>
-Package pdftex.def Info: sujetstage.pdf, page1 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page1 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: sujetstage.pdf Graphic file (type pdf)
  <use sujetstage.pdf, page 1>
-Package pdftex.def Info: sujetstage.pdf, page1 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page1 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: sujetstage.pdf Graphic file (type pdf)
 
 <use sujetstage.pdf, page 1>
-Package pdftex.def Info: sujetstage.pdf, page1 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page1 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [36 <./sujetstage.pdf>]
+ [40 <./sujetstage.pdf>]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sujetstage.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<sujetstage.pdf, id=189, page=2, 597.55246pt x 845.07718pt>
+<sujetstage.pdf, id=205, page=2, 597.55246pt x 845.07718pt>
 File: sujetstage.pdf Graphic file (type pdf)
 
 <use sujetstage.pdf, page 2>
-Package pdftex.def Info: sujetstage.pdf, page2 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page2 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: sujetstage.pdf Graphic file (type pdf)
  <use sujetstage.pdf, page 2>
-Package pdftex.def Info: sujetstage.pdf, page2 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page2 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: sujetstage.pdf Graphic file (type pdf)
 
 <use sujetstage.pdf, page 2>
-Package pdftex.def Info: sujetstage.pdf, page2 used on input line 540.
+Package pdftex.def Info: sujetstage.pdf, page2 used on input line 626.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [37 <./sujetstage.pdf>]
-(./RapPrestageTellusEnv_SHervieu.bbl) [38
+ [41 <./sujetstage.pdf>]
+(./RapPrestageTellusEnv_SHervieu.bbl) [42
 
 ] (./RapPrestageTellusEnv_SHervieu.aux) ) 
 Here is how much of TeX's memory you used:
- 6297 strings out of 492995
- 85346 string characters out of 6132704
- 165924 words of memory out of 5000000
- 9704 multiletter control sequences out of 15000+600000
+ 6318 strings out of 492995
+ 85882 string characters out of 6132704
+ 165991 words of memory out of 5000000
+ 9723 multiletter control sequences out of 15000+600000
  18532 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,46p,594b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -916,10 +929,10 @@ er/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super
 /sfrm1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/s
 fti1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sft
 i1440.pfb>
-Output written on RapPrestageTellusEnv_SHervieu.pdf (39 pages, 869379 bytes).
+Output written on RapPrestageTellusEnv_SHervieu.pdf (43 pages, 974086 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 266 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

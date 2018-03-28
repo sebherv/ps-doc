@@ -416,17 +416,97 @@ En remplaçant le lidar fixe à proximité du silo par un ou plusieurs Lidars mo
 
 \part{Outils Importants }
 
-\chapter{Détecteurs en Robotique}
+\chapter{Capteurs et Détecteurs en Robotique}
 
 Notre projet va s'attacher à mesurer un volume d'ensilage à partir d'une plateforme mobile. Cette plateforme doit donc être en mesure de déterminer sa propre position dans le théatre d'opération, de mesurer le silo et de mesure la surface d'ensilage qui y est tassée.
 
-\paragraph{} Ces informations sont recueillies à l'aide de capteurs dont la mise en oeuvre sera une partie majeure du projet.
+\paragraph{} Ces informations sont recueillies à l'aide de détecteurs dont la mise en oeuvre sera une partie majeure du projet.
 
-\section{Notions sur les capteurs}
+\section{Capteurs et Détecteurs}
 
-\subsection{Informations fournies par un capteur de présence}
+Cette section à pour objet de rappeler les définitions de bases des capteurs et des détecteurs et à expliciter leurs différences.
 
-Mesure de grandeur, fréquence, précision / marge d'erreur.
+\subsection{Les Capteurs}
+
+\paragraph{}Le terme de \textbf{capteur} recouvre un ensemble de procédés très large qui cherche à convertir une grandeur physique quelconque en une grandeur électrique. 
+
+\paragraph{} Selon \cite{asch_les_2010}, le \textbf{mesurande} est la grandeur physique objet de la mesure, (déplacement, température, pression, etc) que l'on représente par $m$. L'ensemble des opérations expérimentales qui concourent à la connaissance de la valeur numérique du mesurande constitue son \textbf{mesurage}.
+
+\paragraph{}Un capteur est un dispositif qui soumis à l'action d'un mesurande non électique présente une caractéristique de nature électrique (charge, tension, courant ou impédance) désigné par $s$ et qui est fonction du mesurande:
+
+\begin{equation}
+	s = F(m)
+\end{equation}
+
+\paragraph{} $s$ est la \textbf{grandeur de sortie} ou \textbf{réponse capteur}, $m$ est la \textbf{grandeur d'entrée} ou \textbf{excitation}. La mesure de $s$ doit permettre de connaître la valeur de $m$. Pour des raisons de facilité d'exploitation, les capteurs sont utilisés de sorte qu'une relation linéaire entre les variations $\varDelta s$ de la grandeur de sortie et celles $\varDelta m$ de la grandeur d'entrée :
+
+\begin{equation}
+	\varDelta s = S \cdot \varDelta m
+\end{equation}
+
+Dans ce cas $S$ est appelée la \textbf{sensibilité du capteur}. 
+
+\paragraph{Types de capteurs:} Il existe une multitude de type de capteurs. Ils sont caractérisés par la grandeur qu'ils mesurent et le phénomène physique exploité pour obtenir cette mesure, ainsi que la nature de l'information de sortie (analogique, numérique, tout ou rien).
+
+\paragraph{} Pour une liste exhaustive de nombreux types de capteurs, ainsi que leur principes physiques et leur mise en oeuvre, voir \cite{asch_les_2010} et \cite{fraden_handbook_2004}.
+
+\subsection{Les détecteurs}
+
+\paragraph{} Selon \cite{noauthor_detection_2017} un détecteur est un dispositif technique (instrument ou substance) qui change d'état en présence de l'élément ou de la situation pour lequel il a été spécifiquement conçu. Un détecteur peut de plus apporter des précisions qualitatives ou quantitatives sur le phénomène observé.
+
+\paragraph{} La principale différence de nature entre un capteur et un détecteur est qu'un détecteur est souvent composée en partie de un ou plusieurs capteurs afin de déterminer son état en fonction de l'environnement.
+
+\paragraph{} La plupart des détecteurs que nous considèrerons seront des détecteurs de présence à distance. Nous nous concentrerons donc sur ceux-ci pour al suite de ce chapitre.
+
+\section{Les détecteurs de présence à distance en robotique}
+Les détecteurs de présence à distance en robotique sont utilisés pour détecter certaines caractéristique géométriques de l'environnement. Ils peuvent être de 2 grands types:
+\begin{itemize}
+	\item \textbf{les détecteurs passifs:} microphones, caméras vidéo, etc
+	\item \textbf{les détecteurs actifs:} sonars, radars, lidar, etc
+\end{itemize}
+
+\subsection{Détecteurs passifs}
+
+Les détecteurs passifs observent l'environnement au moyen de leurs capteurs sans émettre de signaux. Ils sont donc totalement dépendant des rayonnements que leur cible émet pour pouvoir la détecter.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/detecteurpassif}
+	\caption{Schéma de principe d'un détecteur passif}
+	\label{fig:detecteurpassif}
+\end{figure}
+
+\paragraph{} Les signaux qui peuvent être détectés peuvent être de différents types: ondes sonores, lumière, infra-rouge, ondes radio, etc. Nous pourrions aussi mentionner le contact physique (toucher).
+
+\paragraph{} En plus de la présence simple de la cible, la direction et l'intensité du signal peuvent être mesurées pour qualifier la cible. Par contre, la mesure de distance est n'est pas immédiate; requiert l'utilition de techniques de paralaxe et donc soit d'avoir plusieurs détecteurs pour effectuer une triangulation, soit de déplacer le détecteur au court du temps, en faisant l'hypothèse que la cible n'est pas mobile.
+
+\paragraph{} La porté de detection d'un tel dispositif dépend de la sensibilité du capteur ainsi que de l'intensité du signal émis par la cible. Cette dernière n'étant pas forcement connue avec précision, la notion de portée n'est pas forcement bien définie.
+
+\subsection{Détecteurs actifs}
+
+Les détecteur actifs émettent un signal de forte intensité à l'aide d'un transduceur et "écoutent" le signal de retour réfléchi sur une éventuelle cible. 
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{img/detecteuractif}
+	\caption{Schéma de principe d'un détecteur actif}
+	\label{fig:detecteuractif}
+\end{figure}
+
+L'avantage majeur des détecteurs actifs par rapport aux détecteurs passifs est que la mesure de \textbf{distance} de la cible détectée est directe: en mesurant le temps $t$ écoulé entre l'émission du signal et la détection du signal réfléchi et en connaissant la vitesse de propagation du signal $v$, la distance $d$ de la cible sera donnée par:
+
+\begin{equation}
+	d = \frac{t}{2v}
+\end{equation}
+
+\paragraph{} La \textbf{portée}
+
+\subsection{Caractéristiques d'un détecteur de présence:} Un détecteur de présence peut être caractérisé par les paramètres suivants:
+
+\paragraph{Directivité:} 
+ 
+
+
 
 \paragraph{Portée}
 \paragraph{Ouverture} Ouverture en largeur, ouverture en hauteur
@@ -510,7 +590,13 @@ Détecteurs qui ne fournissent que la portée d'un objet détecté, sans pouvoir
 \part{Application Numérique}
 
 \chapter{Application Numérique}
-L'objectif de cette partie est de concevoir et mettre en oeuvre un algorithme de détection de forme à partir d'un nuage de points, pouvant être issu d'un capteur de type "portée et direction".
+L'objectif de cette partie est de concevoir et mettre en oeuvre un algorithme de détection de surfaces planes à partir d'un nuage de points, pouvant être issu d'un capteur de type "portée et direction".
+
+\paragraph{} Nous établir tout d'abord le problème direct qui nous permettra de générer le nuage de points à partir d'un modèle de scène comprenant une surface horizontale représentant le sol, ainsi qu'un mur.
+
+\paragraph{} Nous mettrons en place les outils mathématiques qui seront mis en oeuvre dans la tentative de reconstruction de la scène à partir du nuage de point.
+
+\paragraph{} Un programme d'application sera enfin présenté.
 
 \begin{enumerate}
 \item

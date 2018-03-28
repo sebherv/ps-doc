@@ -43,7 +43,8 @@ phiMax = degtorad(-assLidar + vertOuv/2);
 phis = linspace(phiMin, phiMax, echVert);
 
 % Init le tableau des echantillons
-SAMPLES = zeros(0,3);
+global SAMPLES;
+SAMPLES = zeros(0,4); % les 3 coordonnées spatiales + 1 index de région
 
 
 for phi = phis
@@ -59,7 +60,7 @@ for phi = phis
             z = z0;
             
         % Ajouter l'échantillon à la liste
-        SAMPLES = [SAMPLES; [x y z]];
+        SAMPLES = [SAMPLES; [x y z 0]];
             
         else
             %Calculer intersection avec le sol
@@ -70,7 +71,10 @@ for phi = phis
             % Ajouter l'échantillon à la liste seulement si il est devant
             % le lidar
             if(y < My)
-                SAMPLES = [SAMPLES; [x y z]];
+                SAMPLES = [SAMPLES; [x y z 0]];
+                
+            else
+                SAMPLES = [SAMPLES; [0 0 0 0]]; % Le point mesuré est considéré hors de portée
             end
         
         end % SI intersction façade

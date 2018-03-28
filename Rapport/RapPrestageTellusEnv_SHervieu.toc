@@ -91,50 +91,72 @@
 \contentsline {paragraph}{}{23}
 \contentsline {paragraph}{}{23}
 \contentsline {part}{II\hspace {1em}Outils Importants }{24}
-\contentsline {chapter}{\numberline {4}D\IeC {\'e}tecteurs en Robotique}{25}
+\contentsline {chapter}{\numberline {4}Capteurs et D\IeC {\'e}tecteurs en Robotique}{25}
 \contentsline {paragraph}{}{25}
-\contentsline {section}{\numberline {4.1}Notions sur les capteurs}{25}
-\contentsline {subsection}{\numberline {4.1.1}Informations fournies par un capteur de pr\IeC {\'e}sence}{25}
-\contentsline {paragraph}{Port\IeC {\'e}e}{25}
-\contentsline {paragraph}{Ouverture}{25}
-\contentsline {paragraph}{Distance, gisement, azimuth}{25}
-\contentsline {section}{\numberline {4.2}Les capteurs de position}{25}
-\contentsline {subsection}{\numberline {4.2.1}Odom\IeC {\'e}trie}{25}
-\contentsline {subsection}{\numberline {4.2.2}Centrales inertielles}{26}
-\contentsline {subsection}{\numberline {4.2.3}GPS}{26}
-\contentsline {section}{\numberline {4.3}Les d\IeC {\'e}tecteurs de type "Direction et Port\IeC {\'e}e"}{26}
-\contentsline {subsection}{\numberline {4.3.1}Principes}{26}
-\contentsline {paragraph}{Mesures}{26}
-\contentsline {paragraph}{Modes d'exploitation}{26}
-\contentsline {subsection}{\numberline {4.3.2}Les diff\IeC {\'e}rents types de capteur "Direction et Port\IeC {\'e}e"}{26}
-\contentsline {section}{\numberline {4.4}Les capteurs de type "Direction"}{26}
-\contentsline {subsection}{\numberline {4.4.1}D\IeC {\'e}tecteur de pr\IeC {\'e}sence}{26}
-\contentsline {subsection}{\numberline {4.4.2}Vision par Ordinateur}{26}
-\contentsline {section}{\numberline {4.5}Les d\IeC {\'e}tecteurs de type "Port\IeC {\'e}e seulement"}{26}
-\contentsline {chapter}{\numberline {5}Localisation, Cartographie, SLAM}{27}
-\contentsline {section}{\numberline {5.1}Positionnement du probl\IeC {\`e}me}{27}
-\contentsline {paragraph}{Localisation requiert une carte}{27}
-\contentsline {paragraph}{Cartographier requiert de conna\IeC {\^\i }tre sa position}{27}
-\contentsline {paragraph}{SLAM permet de r\IeC {\'e}soudre cette probl\IeC {\'e}matique "Oeuf et poule"}{27}
-\contentsline {paragraph}{Localisation, vecteur d'\IeC {\'e}tat: }{27}
-\contentsline {section}{\numberline {5.2}Maintenir de le vecteur d'\IeC {\'e}tat}{27}
-\contentsline {paragraph}{Mise en place de la boucle de rafraichissment, filtres de Kalman}{27}
-\contentsline {paragraph}{Selectionner des points de rep\IeC {\`e}re, les maintenir}{27}
-\contentsline {section}{\numberline {5.3}Reconstituer l'environnement}{27}
-\contentsline {chapter}{\numberline {6}Mesurer le tassage}{28}
-\contentsline {section}{\numberline {6.1}Mod\IeC {\'e}liser une surface en 3D}{28}
-\contentsline {section}{\numberline {6.2}Calculer le volume \IeC {\`a} partir d'une surface 3D mesur\IeC {\'e}e}{28}
-\contentsline {chapter}{\numberline {7}Prototypage}{29}
-\contentsline {section}{\numberline {7.1}Prototypage Scientifique des Algorithmes}{29}
-\contentsline {subsection}{\numberline {7.1.1}Matlab}{29}
-\contentsline {subsection}{\numberline {7.1.2}Python}{29}
-\contentsline {section}{\numberline {7.2}Prototype de mise en \IeC {\oe }uvre}{29}
-\contentsline {subsection}{\numberline {7.2.1}Plateforme ROS}{29}
-\contentsline {subsection}{\numberline {7.2.2}Mise en oeuvre en C et/ou C++}{29}
-\contentsline {part}{III\hspace {1em}Application Num\IeC {\'e}rique}{30}
-\contentsline {chapter}{\numberline {8}Application Num\IeC {\'e}rique}{31}
-\contentsline {part}{IV\hspace {1em}Conclusions du Projet Pr\IeC {\'e}liminaire au Stage}{32}
-\contentsline {chapter}{\numberline {9}Objectifs SMART du Stage}{33}
-\contentsline {chapter}{\numberline {10}Conclusion}{34}
-\contentsline {chapter}{\numberline {A}Sujet de stage}{35}
-\contentsline {chapter}{Bibliographie}{38}
+\contentsline {section}{\numberline {4.1}Capteurs et D\IeC {\'e}tecteurs}{25}
+\contentsline {subsection}{\numberline {4.1.1}Les Capteurs}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{Types de capteurs:}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {subsection}{\numberline {4.1.2}Les d\IeC {\'e}tecteurs}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {section}{\numberline {4.2}Les d\IeC {\'e}tecteurs de pr\IeC {\'e}sence \IeC {\`a} distance en robotique}{27}
+\contentsline {subsection}{\numberline {4.2.1}D\IeC {\'e}tecteurs passifs}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {subsection}{\numberline {4.2.2}D\IeC {\'e}tecteurs actifs}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {subsection}{\numberline {4.2.3}Caract\IeC {\'e}ristiques d'un d\IeC {\'e}tecteur de pr\IeC {\'e}sence:}{28}
+\contentsline {paragraph}{Directivit\IeC {\'e}:}{28}
+\contentsline {paragraph}{Port\IeC {\'e}e}{28}
+\contentsline {paragraph}{Ouverture}{28}
+\contentsline {paragraph}{Distance, gisement, azimuth}{28}
+\contentsline {section}{\numberline {4.3}Les capteurs de position}{29}
+\contentsline {subsection}{\numberline {4.3.1}Odom\IeC {\'e}trie}{29}
+\contentsline {subsection}{\numberline {4.3.2}Centrales inertielles}{29}
+\contentsline {subsection}{\numberline {4.3.3}GPS}{29}
+\contentsline {section}{\numberline {4.4}Les d\IeC {\'e}tecteurs de type "Direction et Port\IeC {\'e}e"}{29}
+\contentsline {subsection}{\numberline {4.4.1}Principes}{29}
+\contentsline {paragraph}{Mesures}{29}
+\contentsline {paragraph}{Modes d'exploitation}{29}
+\contentsline {subsection}{\numberline {4.4.2}Les diff\IeC {\'e}rents types de capteur "Direction et Port\IeC {\'e}e"}{29}
+\contentsline {section}{\numberline {4.5}Les capteurs de type "Direction"}{29}
+\contentsline {subsection}{\numberline {4.5.1}D\IeC {\'e}tecteur de pr\IeC {\'e}sence}{29}
+\contentsline {subsection}{\numberline {4.5.2}Vision par Ordinateur}{29}
+\contentsline {section}{\numberline {4.6}Les d\IeC {\'e}tecteurs de type "Port\IeC {\'e}e seulement"}{30}
+\contentsline {chapter}{\numberline {5}Localisation, Cartographie, SLAM}{31}
+\contentsline {section}{\numberline {5.1}Positionnement du probl\IeC {\`e}me}{31}
+\contentsline {paragraph}{Localisation requiert une carte}{31}
+\contentsline {paragraph}{Cartographier requiert de conna\IeC {\^\i }tre sa position}{31}
+\contentsline {paragraph}{SLAM permet de r\IeC {\'e}soudre cette probl\IeC {\'e}matique "Oeuf et poule"}{31}
+\contentsline {paragraph}{Localisation, vecteur d'\IeC {\'e}tat: }{31}
+\contentsline {section}{\numberline {5.2}Maintenir de le vecteur d'\IeC {\'e}tat}{31}
+\contentsline {paragraph}{Mise en place de la boucle de rafraichissment, filtres de Kalman}{31}
+\contentsline {paragraph}{Selectionner des points de rep\IeC {\`e}re, les maintenir}{31}
+\contentsline {section}{\numberline {5.3}Reconstituer l'environnement}{31}
+\contentsline {chapter}{\numberline {6}Mesurer le tassage}{32}
+\contentsline {section}{\numberline {6.1}Mod\IeC {\'e}liser une surface en 3D}{32}
+\contentsline {section}{\numberline {6.2}Calculer le volume \IeC {\`a} partir d'une surface 3D mesur\IeC {\'e}e}{32}
+\contentsline {chapter}{\numberline {7}Prototypage}{33}
+\contentsline {section}{\numberline {7.1}Prototypage Scientifique des Algorithmes}{33}
+\contentsline {subsection}{\numberline {7.1.1}Matlab}{33}
+\contentsline {subsection}{\numberline {7.1.2}Python}{33}
+\contentsline {section}{\numberline {7.2}Prototype de mise en \IeC {\oe }uvre}{33}
+\contentsline {subsection}{\numberline {7.2.1}Plateforme ROS}{33}
+\contentsline {subsection}{\numberline {7.2.2}Mise en oeuvre en C et/ou C++}{33}
+\contentsline {part}{III\hspace {1em}Application Num\IeC {\'e}rique}{34}
+\contentsline {chapter}{\numberline {8}Application Num\IeC {\'e}rique}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {part}{IV\hspace {1em}Conclusions du Projet Pr\IeC {\'e}liminaire au Stage}{36}
+\contentsline {chapter}{\numberline {9}Objectifs SMART du Stage}{37}
+\contentsline {chapter}{\numberline {10}Conclusion}{38}
+\contentsline {chapter}{\numberline {A}Sujet de stage}{39}
+\contentsline {chapter}{Bibliographie}{42}
