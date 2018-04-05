@@ -1,25 +1,29 @@
-\begin{thebibliography}{1}
-
-\bibitem{noauthor_alimentation_2017}
-Alimentation animale, November 2017.
-\newblock Page Version ID: 142916396.
-
-\bibitem{noauthor_detection_2017}
-Détection, November 2017.
-\newblock Page Version ID: 142556258.
-
-\bibitem{noauthor_ensilage_2018}
-Ensilage, February 2018.
-\newblock Page Version ID: 145640864.
-
-\bibitem{noauthor_fermentation_2018}
-Fermentation lactique, February 2018.
-\newblock Page Version ID: 145614846.
+\begin{thebibliography}{10}
 
 \bibitem{asch_les_2010}
 Georges Asch.
 \newblock {\em Les {Capteurs} en {Instrumentation} {Industrielle}}.
 \newblock Dunod, 7eme edition edition, 2010.
+
+\bibitem{bradski_learning_2011}
+Gary~R. Bradski and Adrian Kaehler.
+\newblock {\em Learning {OpenCV}: computer vision with the {OpenCV} library}.
+\newblock Software that sees. O'Reilly, Beijing, 1. ed., [nachdr.] edition,
+  2011.
+\newblock OCLC: 838472784.
+
+\bibitem{bremer_multiple_2012}
+M~Bremer.
+\newblock Multiple {Linear} {Regression}.
+\newblock page~19, 2012.
+
+\bibitem{corke_robotics_2011}
+Peter~I. Corke.
+\newblock {\em Robotics, vision and control: fundamental algorithms in
+  {MATLAB}}.
+\newblock Number v. 73 in Springer tracts in advanced robotics. Springer,
+  Berlin, 2011.
+\newblock OCLC: ocn754988355.
 
 \bibitem{cuvelier_lalimentation_2015}
 Christine CUVELIER and Isabelle DUFRASNE.
@@ -33,13 +37,103 @@ Jacob Fraden.
 \newblock {\em Handbook of modern sensors: physics, designs, and applications}.
 \newblock Springer, New York, 3rd ed edition, 2004.
 
+\bibitem{giblin_computational_2001}
+Peter Giblin, M.~de~Berg, M.~van Kreveld, M.~Overmars, and O.~Schwarzkopf.
+\newblock Computational {Geometry}: {Algorithms} and {Applications}.
+\newblock {\em The Mathematical Gazette}, 85(502):175, March 2001.
+
+\bibitem{gogu_representation_1997}
+Grigore Gogu, Philippe Coiffet, and André Barraco.
+\newblock {\em Représentation des déplacements des robots}.
+\newblock HERMES, 1997.
+
+\bibitem{grewal_kalman_2008}
+Mohinder~S. Grewal and Angus~P. Andrews.
+\newblock {\em Kalman {Filtering}}.
+\newblock John Wiley \& Sons, Inc., Hoboken, NJ, USA, August 2008.
+
+\bibitem{hartley_multiple_2004}
+Richard Hartley and Andrew Zisserman.
+\newblock {\em Multiple view geometry in computer vision}.
+\newblock Cambridge University Press, Cambridge, 2004.
+\newblock OCLC: 804793563.
+
+\bibitem{ma_invitation_2004}
+Yi~Ma, Stefano Soatto, Jana Koseka, and S.~Shankar Sastry.
+\newblock {\em An {Invitation} to 3-{D} {Vision}: {From} {Images} to
+  {Geometric} {Models}}.
+\newblock Spinger, 2004.
+
 \bibitem{maciejewski_productions_2015}
 Jean Maciejewski and Brunon Osson.
 \newblock {\em Productions fourragères}.
 \newblock Editions Lavoisier, September 2015.
 
+\bibitem{mahtani_effective_2016}
+Anil Mahtani, Aaron Martinez~Romero, Enrique Fernandez~Perdomo, and Luis
+  Sanchez.
+\newblock {\em Effective {Robotics} {Programming} with {ROS} - {Third}
+  {Edition}}.
+\newblock 2016.
+
+\bibitem{nuchter_3d_2009}
+Andréas Nüchter.
+\newblock {\em 3D {Robotic} {Mapping}: {The} {Simultaneous} {Localization} and
+  {Mapping} {Problem} with {Six} {Degrees} of {Freedom}}.
+\newblock Springer, 2009.
+
+\bibitem{osche_optical_2002}
+Gregory~R. Osche.
+\newblock {\em Optical {Detection} {Theory} for {Laser} {Application}}.
+\newblock Wiley, 2002.
+
+\bibitem{riisgaard_slam_2003}
+Søren Riisgaard and Morten~Rufus Blas.
+\newblock {SLAM} for {Dummies}.
+\newblock {\em A Tutorial Approach to Simultaneous Localization and Mapping},
+  22(1-127):126, 2003.
+
+\bibitem{sjostedt_lidar_2011}
+Theodor Sjöstedt.
+\newblock {\em {LIDAR} {SIGNAL} {PROCESSING} {TECHNIQUES}: {CLUTTER}
+  {SUPPRESSION}, {CLUSTERING} {AND} {TRACKING}}.
+\newblock 2011.
+
+\bibitem{tarantola_inverse_2005}
+Albert Tarantola.
+\newblock {\em Inverse {Problem} {Theory} and {Methods} for {Model} {Parameter}
+  {Estimation}}.
+\newblock Society for Industrial and Applied Mathematics, January 2005.
+
 \bibitem{trachsler_planifier_nodate}
 Godi Trachsler.
 \newblock Planifier correctement les silos.
+
+\bibitem{wikipedia_alimentation_2017}
+{Wikipédia}.
+\newblock Alimentation animale, November 2017.
+\newblock Page Version ID: 142916396.
+
+\bibitem{wikipedia_detection_2017}
+{Wikipédia}.
+\newblock Détection, November 2017.
+\newblock Page Version ID: 142556258.
+
+\bibitem{wikipedia_ensilage_2018}
+{Wikipédia}.
+\newblock Ensilage, February 2018.
+\newblock Page Version ID: 145640864.
+
+\bibitem{wikipedia_fermentation_2018}
+{Wikipédia}.
+\newblock Fermentation lactique, February 2018.
+\newblock Page Version ID: 145614846.
+
+\bibitem{zarchan_fundamentals_2009}
+Paul Zarchan and Howard Musoff.
+\newblock {\em Fundamentals of {Kalman} filtering: a practical approach}.
+\newblock Number v. 232 in Progress in astronautics and aeronautics. American
+  Institute of Aeronautics and Astronautics, Reston, Va, 3rd ed edition, 2009.
+\newblock OCLC: ocn457170744.
 
 \end{thebibliography}

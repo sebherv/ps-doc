@@ -4,7 +4,7 @@ clear; close all;
 
 % Données du mur, en metres
 hWall = 1.5; % height - hauteur
-lWall = 10;  % lenght, longueur
+lWall = 20;  % lenght, longueur
 wWall = 0.5; % width, largeur
 
 Xmax = lWall / 2;

@@ -3,49 +3,48 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: RapPrestageTellusEnv_SHervieu.aux
 The style file: plain.bst
 Database file #1: biblio.bib
-Warning--to sort, need author or key in noauthor_alimentation_2017
-Warning--to sort, need author or key in noauthor_ensilage_2018
-Warning--to sort, need author or key in noauthor_fermentation_2018
-Warning--to sort, need author or key in noauthor_detection_2017
-You've used 9 entries,
+Warning--empty journal in bremer_multiple_2012
+Warning--empty publisher in mahtani_effective_2016
+Warning--empty publisher in sjostedt_lidar_2011
+You've used 24 entries,
             2118 wiz_defined-function locations,
-            537 strings with 4977 characters,
-and the built_in function-call counts, 1808 in all, are:
-= -- 164
-> -- 51
-< -- 0
-+ -- 23
-- -- 14
-* -- 86
-:= -- 276
-add.period$ -- 22
-call.type$ -- 9
-change.case$ -- 33
+            625 strings with 7303 characters,
+and the built_in function-call counts, 6042 in all, are:
+= -- 554
+> -- 274
+< -- 3
++ -- 111
+- -- 86
+* -- 329
+:= -- 1057
+add.period$ -- 78
+call.type$ -- 24
+change.case$ -- 104
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 81
-empty$ -- 198
-format.name$ -- 14
-if$ -- 401
+cite$ -- 27
+duplicate$ -- 263
+empty$ -- 526
+format.name$ -- 86
+if$ -- 1269
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 7
-newline$ -- 43
-num.names$ -- 10
-pop$ -- 71
+int.to.str$ -- 24
+missing$ -- 34
+newline$ -- 126
+num.names$ -- 48
+pop$ -- 180
 preamble$ -- 1
-purify$ -- 25
+purify$ -- 91
 quote$ -- 0
-skip$ -- 65
+skip$ -- 165
 stack$ -- 0
-substring$ -- 45
-swap$ -- 9
-text.length$ -- 0
+substring$ -- 143
+swap$ -- 30
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
-warning$ -- 4
-while$ -- 10
-width$ -- 10
-write$ -- 84
-(There were 4 warnings)
+type$ -- 66
+warning$ -- 3
+while$ -- 51
+width$ -- 26
+write$ -- 260
+(There were 3 warnings)
